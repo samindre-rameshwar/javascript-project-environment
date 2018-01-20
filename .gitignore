@@ -1,0 +1,7 @@
+node_modules
+/build
+/doc
+/testresults
+*.sublime-workspace
+/bower_components
+.idea/
